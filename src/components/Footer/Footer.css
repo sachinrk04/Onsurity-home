@@ -1,0 +1,18 @@
+.Footer {
+    background: #34495E;
+    color: #ffffff;
+}
+
+.Navigation > ul > li > a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.Contact {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Contact > div > p {
+    font-size: 18px;
+}
